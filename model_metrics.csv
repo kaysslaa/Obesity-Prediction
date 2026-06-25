@@ -1,0 +1,3 @@
+Model,Accuracy,F1-Macro,F1-Weighted,Precision,Recall,ROC-AUC,CV Mean,CV Std
+XGBoost Tuned,95.27%,0.9524,0.9532,0.9561,0.9527,0.9975,97.61%,±0.86%
+ANN,93.62%,0.9346,0.9359,0.9363,0.9362,0.9966,95.17%,±1.50%
