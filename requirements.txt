@@ -5,4 +5,5 @@ scikit-learn
 xgboost
 joblib
 matplotlib
+seaborn
 tensorflow
